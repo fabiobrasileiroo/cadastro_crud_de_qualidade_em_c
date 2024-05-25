@@ -1,0 +1,8 @@
+Order ID: 0
+Product #1: sa - Price: 21.00 - Quantity: 2
+Product #2: fad - Price: 32.00 - Quantity: 2
+Product #3: lsj - Price: 323.00 - Quantity: 2
+Product #4: lajds - Price: 55.00 - Quantity: 2
+Product #5: ldjf - Price: 2123.00 - Quantity: 2
+Total: 5108.00
+
