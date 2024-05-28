@@ -1,18 +1,7 @@
-Order ID: 0
-Product #1: dfjla - Price: 2.00 - Quantity: 3
-Product #2: dfjlasj - Price: 3.00 - Quantity: 3
-Total: 15.00
+
 
 Order ID: 0
-Product #1: dfjla  - Price: 2.00 - Quantity: 3
-Product #2: dfjlasj  - Price: 3.00 - Quantity: 3
-Total: 15.00
-
-Order ID: 1
-Product #1: lkdafj - Price: 3.00 - Quantity: 3
-Product #2: ldajf - Price: 3.00 - Quantity: 4
-Product #3: ladljf - Price: 23.00 - Quantity: 3
-Product #4: ladsjf - Price: 23.00 - Quantity: 2
-Product #5: lasdjf - Price: 23.00 - Quantity: 3
-Total: 205.00
+Product #1: josefa - Price: 1000,00 - Quantity: 1
+Product #2: fabio - Price: 0,00 - Quantity: 1
+Total: 1000,00
 
