@@ -5,3 +5,7 @@ Product #1: josefa - Price: 1000,00 - Quantity: 1
 Product #2: fabio - Price: 0,00 - Quantity: 1
 Total: 1000,00
 
+Order ID: 0
+Product #1: fabio2 - Price: 2,00 - Quantity: 1
+Total: 2,00
+
