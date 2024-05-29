@@ -9,3 +9,52 @@ Order ID: 0
 Product #1: fabio2 - Price: 2,00 - Quantity: 1
 Total: 2,00
 
+Order ID: 0
+Total: 0,00
+
+Order ID: 0
+Total: 0,00
+
+Order ID: 1
+Product #1: fabio - Price: 1,00 - Quantity: 2
+Total: 2,00
+
+Order ID: 0
+Total: 0,00
+
+Order ID: 1
+Product #1: fabio - Price: 1,00 - Quantity: 2
+Total: 2,00
+
+Order ID: 2
+Product #1: 23 - Price: 2,00 - Quantity: 2
+Total: 4,00
+
+Order ID: 0
+Product #1: 12 - Price: 2,00 - Quantity: 1
+Total: 2,00
+
+Order ID: 0
+Product #1: 12 - Price: 2,00 - Quantity: 1
+Total: 2,00
+
+Order ID: 0
+Product #1: 12 - Price: 2,00 - Quantity: 1
+Total: 2,00
+
+Order ID: 1
+Product #1: fabio - Price: 2,00 - Quantity: 12
+Total: 24,00
+
+Order ID: 0
+Product #1: fa - Price: 3,00 - Quantity: 4
+Total: 12,00
+
+Order ID: 0
+Product #1: fa - Price: 3,00 - Quantity: 4
+Total: 12,00
+
+Order ID: 1
+Product #1: fabio123 - Price: 4,00 - Quantity: 3
+Total: 12,00
+

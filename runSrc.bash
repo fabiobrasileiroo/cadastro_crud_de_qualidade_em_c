@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Compile the C program with GTK+ 3.0
-gcc melhor1v.c -o program $(pkg-config --cflags --libs gtk+-3.0)
+gcc -o src/order_management src/main.c src/orders.c src/display_orders.c src/login.c `pkg-config --cflags --libs gtk+-3.0`
+./src/order_management
 
 # Check if the compilation was successful
 if [ $? -eq 0 ]; then
@@ -9,5 +10,3 @@ if [ $? -eq 0 ]; then
 else
     echo "Compilation failed."
 fi
-
-./program
