@@ -3,7 +3,7 @@
 #include "login.h"
 
 static gboolean validate_login(const char *username, const char *password) {
-    return (strcmp(username, "admin") == 0 && strcmp(password, "password") == 0);
+    return (strcmp(username, "admin") == 0 && strcmp(password, "123") == 0);
 }
 
 gboolean show_login_dialog(GtkWindow *parent) {
